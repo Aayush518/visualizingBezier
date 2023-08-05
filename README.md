@@ -14,7 +14,7 @@ This is a simple Python program using Pygame to visualize a smooth Bezier curve 
 - [How to Use](#how-to-use)
 - [Features](#features)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Requirements
 
