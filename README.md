@@ -57,7 +57,4 @@ python main.py
 - The Bezier curve is updated smoothly and interactively based on the control points and the position of the fourth control point.
 - The program visualizes the Bezier curve, control points, and control polygon.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
