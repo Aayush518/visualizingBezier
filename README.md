@@ -1,10 +1,20 @@
 
-```
 # Bezier Curve Visualization
 
 ![Demo](demo.gif)
 
+## Description
+
 This is a simple Python program using Pygame to visualize a smooth Bezier curve based on 4 control points. The user can enter the coordinates for the control points and interactively update the fourth control point using the mouse cursor to observe changes in the Bezier curve.
+
+## Table of Contents
+
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [How to Use](#how-to-use)
+- [Features](#features)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Requirements
 
@@ -47,4 +57,7 @@ python main.py
 - The Bezier curve is updated smoothly and interactively based on the control points and the position of the fourth control point.
 - The program visualizes the Bezier curve, control points, and control polygon.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
